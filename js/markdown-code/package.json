@@ -20,7 +20,7 @@
 		"@gradio/sanitize": "workspace:^",
 		"@types/dompurify": "^3.0.2",
 		"@types/katex": "^0.16.0",
-		"@types/prismjs": "1.26.4",
+		"@types/prismjs": "1.26.5",
 		"github-slugger": "^2.0.0",
 		"isomorphic-dompurify": "^2.14.0",
 		"katex": "^0.16.7",
