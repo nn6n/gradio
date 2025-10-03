@@ -35,7 +35,7 @@
 	"private": true,
 	"dependencies": {
 		"@changesets/changelog-github": "^0.5.0",
-		"@changesets/cli": "^2.27.1",
+		"@changesets/cli": "^2.29.6",
 		"@changesets/get-github-info": "^0.6.0",
 		"@csstools/postcss-global-data": "^2.1.1",
 		"@gradio/client": "workspace:^",
@@ -80,7 +80,7 @@
 		"prettier-plugin-svelte": "^3.2.3",
 		"sirv": "^2.0.4",
 		"sirv-cli": "^2.0.2",
-		"svelte": "^4.2.15",
+		"svelte": "^4.2.19",
 		"svelte-check": "^4.0.5",
 		"svelte-eslint-parser": "^0.36.0",
 		"svelte-i18n": "^4.0.0",
@@ -89,9 +89,9 @@
 		"tinyspy": "^3.0.0",
 		"typescript": "^5.5.4",
 		"typescript-svelte-plugin": "^0.3.42",
-		"vite": "^5.2.11",
+		"vite": "^5.4.20",
 		"vite-plugin-turbosnap": "1.0.3",
-		"vitest": "^1.5.3"
+		"vitest": "^1.6.1"
 	},
 	"devDependencies": {
 		"@chromatic-com/storybook": "^1",
