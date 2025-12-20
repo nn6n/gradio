@@ -22,7 +22,7 @@
 		"semiver": "^1.1.0",
 		"textlinestream": "^1.1.1",
 		"typescript": "^5.0.0",
-		"ws": "^8.13.0"
+		"ws": "^8.17.1"
 	},
 	"devDependencies": {
 		"@types/ws": "^8.5.10",
